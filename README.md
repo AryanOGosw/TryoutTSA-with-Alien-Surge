@@ -2,9 +2,9 @@
 
 https://serioussnake.itch.io/alien-surge
 
-The following link will take you to an itch.io page containing the game. From there, you can manually download the game by pressing "download" on the website.
+The following link will take you to an itch.io page containing the game. From there, you can play the WebGL version.
 
-The following download ONLY WORKS FOR WINDOWS and not for Mac. Sorry about that.
+The download file was having some issues, so we had to make it WebGL. Sorry about that.
 
 **Essay:**
 
@@ -29,6 +29,7 @@ Pixabay. (2025). Pixabay.com. https://pixabay.com/music/ambient-suspense-sci-fi-
 Pixabay. (2021). Pixabay.com. https://pixabay.com/sound-effects/chill-drum-loop-6887/
 
 Fonts, 1001. (2025). Jersey Font Family · 1001 Fonts. 1001 Fonts. https://www.1001fonts.com/jersey-font.html
+
 
 
 
